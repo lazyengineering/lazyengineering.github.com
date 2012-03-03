@@ -5,5 +5,5 @@ title: Lazy Engineering
 
 #Lazy Engineering
 
-##No rest of the wicked.
+##No rest for the wicked.
 
