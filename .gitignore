@@ -1,2 +1,5 @@
 #ignore the generated content directory
 _site
+
+#Temp files
+*.swp
