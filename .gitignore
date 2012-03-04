@@ -3,3 +3,6 @@ _site
 
 #Temp files
 *.swp
+
+#my scratch folder
+_scratch
